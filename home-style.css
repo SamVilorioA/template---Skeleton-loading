@@ -56,3 +56,6 @@
     overflow: hidden;
     flex-grow: 1;
 }
+.hidden{
+    display: none;
+}
